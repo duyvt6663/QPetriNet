@@ -1,8 +1,0 @@
-digraph {
-graph [ dpi = 500 ];"0, 1, 7";
-"0, 3, 6";
-"1, 2, 6" -> "0, 1, 7" [xlabel="t1",arrowsize=.5];
-"1, 2, 6" -> "0, 3, 6" [label="t2",arrowsize=.5];
-labelloc = "t";
-label="[ja, p1, p2]";
-}
