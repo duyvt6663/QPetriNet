@@ -2,12 +2,12 @@
 Petrinet application that:  
 * Animates petrinet.
 * Performs computations. 
-* Layouts Reachability graphs.  
+* Layouts Coverability graphs.  
 ---
 This application employs:  
 * Qt/C++ to manage the UI.
 * Graphviz library to layout graph hierarchically.
-* Reachability algorithm to find a coverage graph for the petri net. More detail in **Section 7** of the report.
+* Reachability algorithm to find a Coverability graph for petri nets. More detail in **Section 7** of the report.
 ---
 It is the author's first desktop application project.  
 ## How to run
